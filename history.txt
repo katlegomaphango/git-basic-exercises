@@ -1,0 +1,1000 @@
+  740  git clone https://github.com/katlegomaphango/interactive-web-apps.git
+  741  git add .
+  742  git commit -m "Created html and css files with basic code"
+  743  git push
+  744  git add styles.css
+  745  git commit -m "Added the color variables"
+  746  git add .
+  747  git commit -m "Added markup for the header and settings with options"
+  748  git add .
+  749  git commit -m "Added semantics and the style to the semantics"
+  750  git add .
+  751  git commit -m "Refracted and styles the counter"
+  752  git add .
+  753  git commit -m "Styled the header title"
+  754  git add .
+  755  git commit -m "Styled the footer"
+  756  git add .
+  757  git commit -m "Fixed the layout in the css"
+  758  git add .
+  759  git commit -m "Added button click effect and reset count to 0"
+  760  git add .
+  761  git commit -m "Created js file and linked to html"
+  762  git add .
+  763  git commit -m "Added const to js and data keys in html"
+  764  git add .
+  765  git commit -m "Added skeleton event handlers to event listerners"
+  766  git add .
+  767  git commit -m "Added counter function to handlers"
+  768  git add .
+  769  git commit -m "Added the min/max bounds conditions"
+  770  git push
+  771  git init
+  772  git push
+  773  code .
+  774  touch index.html
+  775  touch styles.css
+  776  git clone https://github.com/katlegomaphango/IWA-1.git
+  777  code .
+  778  git push
+  779  git add .
+  780  git commit -m "Added links to header"
+  781  git add .
+  782  gti commit -m "Added header markup"
+  783  git commit -m "Added header markup"
+  784  git add .
+  785  git commit -m "Added aside controls markup"
+  786  git add .
+  787  git commit -m "Added main counter markup"
+  788  git add .
+  789  git commit -m "Added footer markup"
+  790  git push
+  791  git add .
+  792  git commit -m "Added color variables to the stylesheet" 
+  793  git add .
+  794  git commit -m "Styled the body"
+  795  git add .
+  796  git commit -m "Styled the header"
+  797  git add .
+  798  git commit -m "Added temp background to the aside controls"
+  799  git add .
+  800  git commit -m "Styled maain counter section"
+  801  git add .
+  802  git commit -m "Styled the footer"
+  803  git push
+  804  git add .
+  805  git commit -m "Created and linked scripts.js file"
+  806  git add .
+  807  git commit -m "Added data-key attributes to use in my js"
+  808  git add .
+  809  git commit -m "Added event listernes"
+  810  git add .
+  811  git commit -m "Added event handlers"
+  812  git push
+  813  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challeng1.js"
+  814  sudo apt install nodejs
+  815  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challeng1.js"
+  816  git add .
+  817  git commit -m "FIxed challenge1"
+  818  git push
+  819  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challenge-2.js"
+  820  git add .
+  821  git commit -m "Fixed challenge 2"
+  822  git push
+  823  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challenge-3.js"
+  824  git add .
+  825  git commit -m "Fixed the comments for challenge2"
+  826  git push
+  827  code .
+  828  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challeng1.js"
+  829  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challenge-2.js"
+  830  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-2/challenge-3.js"
+  831  git clone https://github.com/katlegomaphango/IWA-3.git
+  832  cd IWA-3
+  833  code .
+  834  git add .
+  835  git commit -m "Created all the challenge1 files"
+  836  git add .
+  837  git commit -m "Added the defer attribute and closing script tag"
+  838  git add .
+  839  git commit -m "Added the export keyword to the const in configuration.js"
+  840  git status
+  841  git add .
+  842  git commit -m "Changed the form to from"
+  843  git add .
+  844  git commit -m "Added the .js to src"
+  845  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-3/Challenge-1/scripts.js"
+  846  git add .
+  847  git commit -m "Added module type to script"
+  848  git push
+  849  clear
+  850  git add .
+  851  git commit -m "Created all initial files"
+  852  git push
+  853  git add .
+  854  git commit -m "Added closing script tags to the scripts"
+  855  git add .
+  856  git commit -m "Replaced private withconst and public with export"
+  857  node "/home/ivan/Documents/CodeSpace/interactive-web-apps/IWA-3/Challenge-2/scripts.js"
+  858  git add .
+  859  git commit -m "Added the imports and refracted the console.log "
+  860  git add .
+  861  git commit -m "Replaced all the module and nomodule with src"
+  862  git push
+  863  sudo shutdown -h 04:58
+  864  git add .
+  865  git commit -m "Added initial files and code"
+  866  git push
+  867  git add .
+  868  git commit -m "Added parseInt and chechked for NaN"
+  869  git push
+  870  git add .
+  871  git commit -m "Added files and basic code for challenge 2"
+  872  git push
+  873  git pull
+  874  git staus
+  875  git status
+  876  git clone https://github.com/katlegomaphango/IWA-7.git
+  877  cd IWA-7
+  878  ls
+  879  code .
+  880  ls
+  881  mkdir IWA-7-3_Challenge1
+  882  ls
+  883  cd IWA-7-3_Challenge1
+  884  cd .
+  885  cd ..
+  886  mkdir IWA-7-4_Challenge2
+  887  ls
+  888  mkdir IWA-7-5_Challenge3
+  889  ls
+  890  cd IWA-7-3_Challenge1
+  891  touch Index.html
+  892  touch scripts.js
+  893  touch README.md
+  894  cd ..
+  895  git add .
+  896  git commit -m "Created initial files and folders"
+  897  git push
+  898  git status
+  899  git add .
+  900  git status
+  901  git commit -m "Created initial files and folders"
+  902  git push
+  903  git add .
+  904  git commit -m "Added initial code and markup"
+  905  git push
+  906  git add .
+  907  git commit -m "removed the quotation marks to make value a number and not string"
+  908  git push
+  909  git add .
+  910  git commit -m "Added initial code and markup"
+  911  git push
+  912  git add .
+  913  git commit -m "Created loggedname and its value conditions"
+  914  git push
+  915  git add .
+  916  git commit -m "Added initial code and markup"
+  917  git push
+  918  git add .
+  919  git commit -m "Completed the third challenge"
+  920  git push
+  921  git clone https://github.com/katlegomaphango/IWA-8.git
+  922  cd IWA-8
+  923  ls
+  924  git clone
+  925  code .
+  926  git add .
+  927  git commit -m "Created initial files and code"
+  928  git push
+  929  cd ..
+  930  git clone https://github.com/katlegomaphango/IWA-9.git
+  931  cd IWA-9
+  932  ls
+  933  code .
+  934  git add .
+  935  git commit -m "Created initial files and code"
+  936  git push
+  937  sudo shutdown -h 04:59
+  938  code .
+  939  git clone https://github.com/katlegomaphango/IWA-5.git
+  940  git push
+  941  sudo shutdown -h 13:45
+  942  sudo shutdown -h 13:12
+  943  sudo shutdown -h 04:55
+  944  CODE .
+  945  code .
+  946  code .
+  947  git clone https://github.com/katlegomaphango/IWA-10.git
+  948  cd iwa-10
+  949  cd IWA-10
+  950  code .
+  951  sudo shutdown -h 04:55
+  952  sudo apt update
+  953  sudo apt-get install wine
+  954  sudo shutdown -h 10:13
+  955  code .
+  956  git clone https://github.com/katlegomaphango/IWA-11.git
+  957  cd ~
+  958  clear
+  959  sudo apt update
+  960  sudo apt upgrade
+  961  sudo apt-get install wine
+  962  sudo apt-get install wine32
+  963  sudo apt-get install libwine
+  964  clear
+  965  ls
+  966  cd Videos
+  967  ls
+  968  wine FIFA22.exe
+  969  wine setup.exe
+  970  ls
+  971  wine setup.exe
+  972  git clone https://github.com/katlegomaphango/IWA-12.git
+  973  cd IWA-12
+  974  code .
+  975  cd ..
+  976  git clone https://github.com/katlegomaphango/IWA-13.git
+  977  cd IWA-13
+  978  code .
+  979  cd ..
+  980  git clone https://github.com/katlegomaphango/IWA-14.git
+  981  cd IWA-14
+  982  cd .
+  983  code .
+  984  cd ..
+  985  git clone https://github.com/katlegomaphango/IWA-15.git
+  986  cd IWA-15
+  987  code .
+  988  cd ..
+  989  git clone https://github.com/katlegomaphango/IWA-16.git
+  990  cd IWA-16
+  991  code .
+  992  cd ..
+  993  git clone https://github.com/katlegomaphango/IWA-17.git
+  994  cd IWA-17
+  995  code .
+  996  cd ..
+  997  git clone https://github.com/katlegomaphango/IWA-18.git
+  998  cd IWA-18
+  999  code .
+ 1000  git clone https://github.com/CodeSpace-Academy/book-connect.git
+ 1001  code .
+ 1002  git clone https://github.com/katlegomaphango/katlegomaphango.github.io.git
+ 1003  code .
+ 1004  git clone https://github.com/katlegomaphango/KATMAP076_FTO2301_GroupB_KatlegoMaphango_ITW19.git
+ 1005  chrome
+ 1006  chrome www.google.com
+ 1007  google-chrome
+ 1008  git status
+ 1009  git pull
+ 1010  git add .
+ 1011  git commit -m "Presentation"
+ 1012  git push
+ 1013  git pull
+ 1014  git add .
+ 1015  git commit -m "summary overlay"
+ 1016  git push
+ 1017  sudo shutdown -h 08:15
+ 1018  google-chrome
+ 1019  sudo dpkg -i '/home/ivan/Downloads/iriunwebcam-2.8.deb' 
+ 1020  sudo apt-get install -f
+ 1021  clear
+ 1022  sudo apt update
+ 1023  clear
+ 1024  sudo apt install gdebi
+ 1025  clear
+ 1026  vlc
+ 1027  node -v
+ 1028  sudo snap install VLC
+ 1029  sudo snap install vlc
+ 1030  snap help refresh
+ 1031  dpkg -i Insomnia.Core-2023.2.0.deb
+ 1032  sudo dpkg -i Insomnia.Core-2023.2.0.deb
+ 1033  sudo apt install nodejs
+ 1034  node –version
+ 1035  node -v
+ 1036  sudo apt remove node && sudo apt autoremove
+ 1037  ls
+ 1038  cd /Downloads
+ 1039  cd Downloads
+ 1040  ls
+ 1041  tar -xvf node-v20.2.0-linux-x64.tar.xz
+ 1042  nano ~/.bashrc
+ 1043  export PATH=/Downloads/bin:$PATH
+ 1044  source ~/.bashrc
+ 1045  node -v
+ 1046  git clone https://github.com/katlegomaphango/dynamic-web-apps.git
+ 1047  git add .
+ 1048  git commit -m "Added pdf doc"
+ 1049  git push
+ 1050  git pull
+ 1051  ls
+ 1052  clear
+ 1053  git submodule add https://github.com/katlegomaphango/DWA-1.git
+ 1054  git status
+ 1055  git add .
+ 1056  git commit -m "Added DWA-1 sub repo"
+ 1057  git push
+ 1058  cd DWA-1
+ 1059  git add .
+ 1060  git commit -m "added pdf"
+ 1061  git push
+ 1062  git status
+ 1063  cd ..
+ 1064  git status
+ 1065  git add
+ 1066  git add .
+ 1067  git commit -m "update dwa-1"
+ 1068  git push
+ 1069  sudo shutdown -h 04:58
+ 1070  git submodule add https://github.com/katlegomaphango/DWA-3-2.git
+ 1071  git add .
+ 1072  git commit -m "Added DWA 3.2"
+ 1073  git push
+ 1074  sudo snap install whatsapp-for-linux
+ 1075  git pull
+ 1076  git status
+ 1077  git submodules add https://github.com/katlegomaphango/DWA-2.git
+ 1078  git submodule add https://github.com/katlegomaphango/DWA-2.git
+ 1079  git add .
+ 1080  git commit -m "Added DWA2"
+ 1081  git push
+ 1082  git status submodule
+ 1083  git submodule add https://github.com/katlegomaphango/DWA-3-1.git
+ 1084  git add .
+ 1085  git commit -m "Added DWA 3.1"
+ 1086  git push
+ 1087  node -v
+ 1088  npm -v
+ 1089  npm install -g n
+ 1090  sudo npm install -g n
+ 1091  sudo n lts
+ 1092  node -v
+ 1093  npm -v
+ 1094  git submodule add https://github.com/katlegomaphango/DWA-4.git
+ 1095  git add .
+ 1096  git commit -m "Added DWA4"
+ 1097  git push
+ 1098  git clone https://github.com/katlegomaphango/DWA-5.git
+ 1099  cd DWA-5
+ 1100  code .
+ 1101  git pull
+ 1102  git clone https://github.com/katlegomaphango/DWA-6.git
+ 1103  code .
+ 1104  git submodules add https://github.com/katlegomaphango/DWA-5.git
+ 1105  git submodule add https://github.com/katlegomaphango/DWA-5.git
+ 1106  git submodule add https://github.com/katlegomaphango/DWA-6.git
+ 1107  git clone https://github.com/katlegomaphango/DWA-7.git
+ 1108  git add .
+ 1109  git commit -m "Initail files from DWA6"
+ 1110  git push
+ 1111  git pull
+ 1112  git init
+ 1113  git add .
+ 1114  git commit -m "Initial files from DWA6"
+ 1115  git push
+ 1116  git remote add origin git@github.com:katlegomaphango/DWA-7.git
+ 1117  git push
+ 1118  git push --set-upstream origin main
+ 1119  git pull
+ 1120  git status
+ 1121  code .
+ 1122  code .
+ 1123  git add .
+ 1124  code .
+ 1125  git pull
+ 1126  git status
+ 1127  git push
+ 1128  sudo dpkg -i discord-0.0.27.deb
+ 1129  cd..
+ 1130  cd ..
+ 1131  git clone https://github.com/katlegomaphango/todo-example-codespace.git
+ 1132  code .
+ 1133  git clone https://github.com/katlegomaphango/DWA-8.git
+ 1134  cd DWA-8
+ 1135  code 
+ 1136  code .
+ 1137  git clone https://github.com/katlegomaphango/DWA-9.git
+ 1138  cd DWA-9
+ 1139  git add .
+ 1140  git commit -m 'book preview jsdoc'
+ 1141  git add .
+ 1142  git commit -m 'updated populateDropdown jsdoc"
+ 1143  git commit -m 'updated populateDropdown jsdoc'
+ 1144  git add .
+ 1145  git commit -m 'updated showmorebtn unction and jsdoc'
+ 1146  git add .
+ 1147  git commit -m 'findnode jsdoc'
+ 1148  git add .
+ 1149  git commit -m 'updated jelpers snd scripts'
+ 1150  git add .
+ 1151  git commit -m 'theme object jsdoc'
+ 1152  git push
+ 1153  git pull
+ 1154  git add .
+ 1155  git commit -m "jsdoc"
+ 1156  git pull
+ 1157  git config pull.rebase false  # merge
+ 1158  git pull
+ 1159  code .
+ 1160  git clone https://github.com/katlegomaphango/todo-example-codespace.git
+ 1161  code .
+ 1162  git add .
+ 1163  git commit -m "components slots"
+ 1164  git push
+ 1165  git add .
+ 1166  git commit -m "added web components"
+ 1167  git add .
+ 1168  git commit -m "+ and - logic"
+ 1169  git add .
+ 1170  git commit -m "reset button"
+ 1171  git add .
+ 1172  git commit -m "reset event handler"
+ 1173  git push
+ 1174  git add .
+ 1175  git commit -m "centered footer"
+ 1176  git push
+ 1177  git add .
+ 1178  git commit -m "show alert"
+ 1179  git push
+ 1180  git add .
+ 1181  git commit -m "styled alert"
+ 1182  git push
+ 1183  git clone https://github.com/katlegomaphango/DWA-10.git
+ 1184  cd DWA-10
+ 1185  code .
+ 1186  code .
+ 1187  code .
+ 1188  git init
+ 1189  git add .
+ 1190  git commit -m "redux"
+ 1191  git add .
+ 1192  git commit -m "redux"
+ 1193  git pull
+ 1194  git add .
+ 1195  git commit -m "create UI framework"
+ 1196  git push
+ 1197  git add .
+ 1198  git commit -m "DOM updates"
+ 1199  git push
+ 1200  git add .
+ 1201  git commit =m "remove v"
+ 1202  git commit -m "remove v"
+ 1203  git add .
+ 1204  git commit -m "lit-html"
+ 1205  git push
+ 1206  git add .
+ 1207  git commit -m "util fn"
+ 1208  git push
+ 1209  git add .
+ 1210  git commit -m "exercise 2"
+ 1211  git add .
+ 1212  git commit -m "refracted exercise 2"
+ 1213  git push
+ 1214  git clone https://github.com/katlegomaphango/DWA-13.git
+ 1215  cd DWA-13
+ 1216  code .
+ 1217  git clone https://github.com/katlegomaphango/DWA-14.git
+ 1218  git add .
+ 1219  git commit -m "lit 1.0"
+ 1220  git push
+ 1221  git clone https://github.com/katlegomaphango/scrimba-react.git
+ 1222  code .
+ 1223  git add .
+ 1224  git clone https://github.com/katlegomaphango/scrimba-react.git
+ 1225  git init
+ 1226  git clone https://github.com/katlegomaphango/scrimba-react.git
+ 1227  git submodule add https://github.com/katlegomaphango/first-react.git
+ 1228  ls
+ 1229  git status
+ 1230  git add .
+ 1231  git commit -m "added first-react"
+ 1232  git push
+ 1233  git add .
+ 1234  git commit -m "initial"
+ 1235  git push
+ 1236  code .
+ 1237  git add .
+ 1238  git commit -m "imperativs vs declarative"
+ 1239  git add .
+ 1240  git commit -m "intro jsx"
+ 1241  git add .
+ 1242  git commit -m "new react"
+ 1243  git add .
+ 1244  git commit -m "render over append"
+ 1245  git push
+ 1246  code .
+ 1247  git add .
+ 1248  git commit -m "challenge 1"
+ 1249  git add .
+ 1250  git commit -m "custom components 1"
+ 1251  git add .
+ 1252  git commit -m "custom components 2"
+ 1253  git push
+ 1254  git add .
+ 1255  git commit -m "basic styling"
+ 1256  git commit -m "organizing"
+ 1257  git add .
+ 1258  git commit -m "organizing"
+ 1259  dotnet
+ 1260  code .
+ 1261  npm create vite@latest
+ 1262  npm install
+ 1263  npm run dev
+ 1264  git add .
+ 1265  git commit -m "dark/light mode"
+ 1266  git push
+ 1267  git pull
+ 1268  git status
+ 1269  npm create vite@latest
+ 1270  code .
+ 1271  npm install
+ 1272  npm install --save nanoid
+ 1273  npm i react-mde
+ 1274  npm install react-mde
+ 1275  npm install --save --legacy-peer-deps react-mde
+ 1276  npm install --save react-split
+ 1277  npm install --save --legacy-peer-deps react-split
+ 1278  npm install showdown
+ 1279  npm install --save --legacy-peer-deps showdown
+ 1280  npm rundev
+ 1281  npm run dev
+ 1282  npm create vite@latest
+ 1283  cd example
+ 1284  npm install
+ 1285  code .
+ 1286  npm run dev
+ 1287  npm create vite@latest
+ 1288  cd eg-vite
+ 1289  npm i
+ 1290  code .
+ 1291  sudo apt install gparted
+ 1292  apt --fix-broken install
+ 1293  sudo apt --fix-broken install
+ 1294  sudo apt install gparted
+ 1295  sudo gparted
+ 1296  sudo dpkg -i discord-0.0.28.deb
+ 1297  git clone https://github.com/katlegomaphango/mock-podcast-ts.3.git
+ 1298  npm run dev
+ 1299  npm install -D @types/redux @types/react-redux
+ 1300  npm install react-router-dom
+ 1301  npm install --save @types/react-router-dom
+ 1302  npm run dev
+ 1303  npm install @reduxjs/toolkit
+ 1304  npm run dev
+ 1305  npm install @mui/material @emotion/react @emotion/styled
+ 1306  npm install @mui/icons-material
+ 1307  npm run dev
+ 1308  npm create vite@latest
+ 1309  npm install
+ 1310  code .
+ 1311  git status
+ 1312  git pull
+ 1313  git config pull.rebase false.
+ 1314  git status
+ 1315  git pull
+ 1316  git config pull.rebase false
+ 1317  git pull
+ 1318  git status
+ 1319  git push
+ 1320  npm run dev
+ 1321  npm install @mui/material @emotion/react @emotion/stylednpm install @supabase/supabase-js @supabase/auth-ui-react
+ 1322  npm install @supabase/supabase-js @supabase/auth-ui-react
+ 1323  npm i react-router-dom
+ 1324  npm i @supabase/auth-ui-shared
+ 1325  npm install react-multi-carousel
+ 1326  npm run dev
+ 1327  supabase start
+ 1328  supabase init
+ 1329  npm install supabase --save-dev
+ 1330  supabase init
+ 1331  npx supabase init
+ 1332  npx supabase start
+ 1333  npx supabase start --debug
+ 1334  npx supabase start
+ 1335  npx supabase start --debug
+ 1336  npx supabase start
+ 1337  npx supabase start --debug
+ 1338  npx supabase gen types typescript --local > ./src/assets/constants.ts
+ 1339  npx supabase start --ignore-health-check
+ 1340  npx supabase start --ignore-health-check --debug
+ 1341  npx supabase init
+ 1342  npx supabase start --ignore-health-check --debug
+ 1343  npm i supabase@">=1.8.1" --save-dev
+ 1344  npx supabase login
+ 1345  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public > types/supabase.ts
+ 1346  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public > ./src/assets/constants.ts
+ 1347  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public --local > ./src/assets/constants.ts
+ 1348  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public --local > ./src/assets/constants.ts --debug
+ 1349  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public > ./src/types/supabase.ts
+ 1350  npx supabase gen types typescript --project-id "$PROJECT_REF" --schema public > ./src/assets/constants.ts
+ 1351  npx supabase gen types typescript --project-id "https://ejunfndfdoichrebqhsr.supabase.co" --schema public > ./src/assets/constants.ts 
+ 1352  npx supabase gen types typescript --project-id "mock-podcast-ts.3" --schema public > ./src/assets/constants.ts 
+ 1353  npx supabase gen types typescript --project-id "mock-podcast-ts.3" --schema --debug public > ./src/assets/constants.ts 
+ 1354  npx supabase gen types typescript --project-id "mock-podcast-ts.3" --schema --debug public > ./src/assets/constants.ts --debug
+ 1355  npx supabase gen types typescript --project-id "ejunfndfdoichrebqhsr" --schema --debug public > ./src/assets/constants.ts 
+ 1356  sudo apt install gnome-terminal
+ 1357  sudo apt remove docker-desktop
+ 1358  sudo apt-get update
+ 1359  sudo apt-get install ca-certificates curl gnupg
+ 1360  sudo install -m 0755 -d /etc/apt/keyrings
+ 1361  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1362  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+ 1363  sudo install -m 0755 -d /etc/apt/keyrings
+ 1364  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1365  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+ 1366  echo   "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+ 1367    "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1368  sudo apt-get update
+ 1369  ls
+ 1370  cd Downloads
+ 1371  sudo apt-get update
+ 1372  sudo apt-get install ./docker-desktop-4.21.1-amd64.deb
+ 1373  systemctl --user start docker-desktop
+ 1374  clear
+ 1375  cd ~
+ 1376  restart
+ 1377  sudo restart
+ 1378  clear
+ 1379  npm run dev
+ 1380  npm i
+ 1381  vite build
+ 1382  code .
+ 1383  npm i
+ 1384  npm run dev
+ 1385  npm run build
+ 1386  npm run dev
+ 1387  npm install @mui/material @emotion/react @emotion/styled
+ 1388  npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+ 1389  npm run dev
+ 1390  git clone https://github.com/katlegomaphango/katlegomaphango.io.git
+ 1391  npm run build
+ 1392  npm run dev
+ 1393  npm run build
+ 1394  git clone https://github.com/katlegomaphango/personal-website.git
+ 1395  code .
+ 1396  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-7.0
+ 1397  sudo apt-get update &&   sudo apt-get install -y aspnetcore-runtime-7.0
+ 1398  scriptcs "/home/ivan/Desktop/temp/WebApplication1/WebApplication1/Program.cs"
+ 1399  dotnet new mvc
+ 1400  dotnet --info
+ 1401  dotnet --list-sdks
+ 1402  dotnet --list-runtimes
+ 1403  dotnet new mvc
+ 1404  git pull
+ 1405  git config pull.rebase false
+ 1406  git pull
+ 1407  dotnet run
+ 1408  dotnet run Program.cs
+ 1409  vboxmanage --version
+ 1410  cd ~
+ 1411  sudo apt-get remove --purge virtualbox 
+ 1412  sudo rm ~/"VirtualBox VMs" -Rf
+ 1413  sudo rm ~/.config/VirtualBox/ -Rf
+ 1414  sudo apt-get remove --purge virtualbox 
+ 1415  sudo '/sbin/vboxconfig'
+ 1416  sudo /sbin/vboxconfig
+ 1417  sudo dpkg -i virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
+ 1418  sudo apt install -f
+ 1419  sudo /sbin/vboxconfig
+ 1420  sudo apt autoremove
+ 1421  sudo vbxconfig
+ 1422  sudo vboxconfig
+ 1423  clear
+ 1424  dpkg --list virtualbox-*
+ 1425  dpkg -l virtualbox* | grep  ^i
+ 1426  dpkg -l | grep virtualbox-dkms
+ 1427  sudo apt-get purge virtualbox-dkms && sudo apt-get install dkms
+ 1428  sudo /sbin/vboxconfig
+ 1429  lspci
+ 1430  lspci | less
+ 1431  ifconfig
+ 1432  flatpak install flathub com.obsproject.Studio
+ 1433  sudo apt install flatpak
+ 1434  cd /tmp/
+ 1435  wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_2.0.0.zip
+ 1436  unzip droidcam_latest.zip -d droidcam
+ 1437  cd droidcam && sudo ./install-client
+ 1438  sudo apt install libappindicator3-1
+ 1439  linux-headers-`uname -r` gcc make
+ 1440  sudo apt install linux-headers-`uname -r` gcc make
+ 1441  sudo ./install-video
+ 1442  droidcam
+ 1443  npm run dev
+ 1444  npm run build
+ 1445  git clone https://github.com/katlegomaphango/Web-dev-book-store.git
+ 1446  npm create vite@latest
+ 1447  cd react-store
+ 1448  npm install
+ 1449  npm install @supabase/supabase-js
+ 1450  npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+ 1451  code .
+ 1452  npm run dev
+ 1453  code .
+ 1454  npm install @reduxjs/toolkit
+ 1455  npm install react-redux
+ 1456  npm install --save @types/react-redux
+ 1457  dotnet
+ 1458  dotnet new webapp -o MyWebApp --no-https -f net7.0
+ 1459  ls
+ 1460  cd MyWebApp
+ 1461  ls
+ 1462  dotnet watch
+ 1463  dotnet --list-sdks
+ 1464  type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
+ 1465  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh -y
+ 1466  sudo apt update
+ 1467  sudo apt install gh
+ 1468  git clone https://github.com/MicrosoftDocs/mslearn-create-razor-pages-aspnet-core
+ 1469  cd mslearn-create-razor-pages-aspnet-core
+ 1470  code .
+ 1471  cd mslearn-create-razor-pages-aspnet-core
+ 1472  code .
+ 1473  sudo apt install sqlite3
+ 1474  ls
+ 1475  cd ContosoPizza code .
+ 1476  cd ContosoPizza
+ 1477  code .
+ 1478  clear
+ 1479  cd .
+ 1480  cd /
+ 1481  cd /Documents/CodeSpace/Asp.Net/
+ 1482  ls
+ 1483  cd home
+ 1484  ls
+ 1485  cd ivan
+ 1486  ls
+ 1487  cd /Documents/CodeSpace/Asp.Net/
+ 1488  cd Documents
+ 1489  ls
+ 1490  cd /Documents/CodeSpace/Asp.Net
+ 1491  cd CodeSpace
+ 1492  ls
+ 1493  cd Asp.Net
+ 1494  clear
+ 1495  dotnet --list-sdks
+ 1496  dotnet new webapi -f net7.0
+ 1497  ls
+ 1498  dotnet tool install -g Microsoft.dotnet-httprepl
+ 1499  httprepl https://localhost:5096
+ 1500  dotnet run
+ 1501  dotnet watch
+ 1502  dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages
+ 1503  git clone https://github.com/katlegomaphango/storage.git
+ 1504  git clone https://github.com/katlegomaphango/learn-c-sharp.git
+ 1505  sudo /opt/mssql/bin/mssql-conf setup
+ 1506  sudo wget https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc
+ 1507  sudo add-apt-repository "$(wget -qO- https://packages.microsoft.com/config/ubuntu/20.04/mssql-server-2022.list)"
+ 1508  sudo apt-get update
+ 1509  sudo apt-get install -y mssql-server
+ 1510  sudo /opt/mssql/bin/mssql-conf setup
+ 1511  systemctl status mssql-server --no-pager
+ 1512  sudo su
+ 1513  sudo apt-get update
+ 1514  sudo apt-get install mssql-tools18 unixodbc-dev
+ 1515  sudo apt-get update  
+ 1516  sudo apt-get install mssql-tools18
+ 1517  sqlcmd -S localhost -U sa -P 'K!m_19988'
+ 1518  dotnet runf
+ 1519  cd first-console-app
+ 1520  dotnet run
+ 1521  cd first-console-app
+ 1522  dotnet run
+ 1523  dotnet new winforms
+ 1524  dotnet new list winforms
+ 1525  dotnet new search winforms
+ 1526  dotnet new
+ 1527  sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
+ 1528  sudo dockerd
+ 1529  sudo service --status-all
+ 1530  sudo service docker start
+ 1531  cd ~
+ 1532  sudo dpkg -i ./Downloads/azuredatastudio-linux-1.45.0.deb
+ 1533  azuredatastudio
+ 1534  sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
+ 1535  docker pull mcr.microsoft.com/mssql/server
+ 1536  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=K!m_19988' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+ 1537  docker ps
+ 1538  gpg --generate-key
+ 1539  pass init <generated gpg-id public key>\
+ 1540  pass init 96C5F22D732ED2551035E82F4057FD8AA826C967
+ 1541  dpkg --list
+ 1542  killall snap-store
+ 1543  sudo apt remove Manager14
+ 1544  sudo apt purge Manager14
+ 1545  snap list
+ 1546  flatpak list
+ 1547  clear
+ 1548  dpkg --list
+ 1549  code .
+ 1550  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=K!m_19988' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+ 1551  docker run --help
+ 1552  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=K!m_19988' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+ 1553  docker ps
+ 1554  dotnet watch
+ 1555  ls
+ 1556  cd dotnet-webDev-store
+ 1557  dotnet watch
+ 1558  dotnet add package Microsoft.EntityFrameworkCore
+ 1559  ls
+ 1560  cd dotnet-webDev-store
+ 1561  dotnet add package Microsoft.EntityFrameworkCore
+ 1562  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1563  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1564  dotnet add package Microsoft.EntityFrameworkCore.Design
+ 1565  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=K!m_19988' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+ 1566  systemctl start docker
+ 1567  sudo systemctl start docker
+ 1568  gpasswd -a $USER docker
+ 1569  sudo dockerd
+ 1570  sudo service --status-all
+ 1571  sudo service docker start
+ 1572  docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=K!m_19988' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+ 1573  cd dotnet-webDev-store
+ 1574  dotnet watch
+ 1575  ls
+ 1576  cd dotnet-webDev-store
+ 1577  dotnet add package Font.Awesome.AspDotNetCore
+ 1578  npm run dev
+ 1579  npm run build
+ 1580  npm run dev
+ 1581  npm run build
+ 1582  npm run dev
+ 1583  npm run build
+ 1584  sudo shutdown -h 10:15
+ 1585  clear
+ 1586  npm rundev
+ 1587  npm run dev
+ 1588  git pull
+ 1589  code .
+ 1590  git init
+ 1591  git add .
+ 1592  git commit -m 'initial'
+ 1593  ls
+ 1594  cd DigitalProductInventoryApp
+ 1595  ls
+ 1596  cd bin
+ 1597  ls
+ 1598  cd Debug
+ 1599  ls
+ 1600  cd net7.0
+ 1601  ls
+ 1602  clear
+ 1603  ildasm DigitalProductInventoryApp.dll /output:DigitalProductInventoryApp.il
+ 1604  git pull
+ 1605  git config pull.rebase false
+ 1606  git pull
+ 1607  git status
+ 1608  git add .
+ 1609  git commit -m "merge"
+ 1610  ls
+ 1611  cd TestTimeConsumingOperation
+ 1612  dotnet run
+ 1613  dotnet build
+ 1614  dotnet watch
+ 1615  dotnet run
+ 1616  ls
+ 1617  cd CalVolume
+ 1618  dotnet run
+ 1619  ls
+ 1620  cd CalVolume
+ 1621  dotnet run
+ 1622  ls
+ 1623  cd CalVolume
+ 1624  dontnet run
+ 1625  dotnet run
+ 1626  ls
+ 1627  cd ClassAverage
+ 1628  dotnet run
+ 1629  cd ClassAverage
+ 1630  dotnet run
+ 1631  ls
+ 1632  cd LoanCalulator
+ 1633  dotnet run
+ 1634  ls
+ 1635  cd CalculateBMI
+ 1636  dotnet run
+ 1637  git status
+ 1638  ls
+ 1639  cd  DisplayNameWithAge
+ 1640  dotnet run
+ 1641  ls
+ 1642  cd DisplayNameWithAge
+ 1643  dotnet run
+ 1644  ls
+ 1645  cd FindHCF
+ 1646  dotnet run
+ 1647  clear
+ 1648  dotnet run
+ 1649  clear
+ 1650  dotnet run
+ 1651  ls
+ 1652  cd DisplayAgeInYrMonDays
+ 1653  dotnet run
+ 1654  ls
+ 1655  cd WeekTemperatures
+ 1656  dotnet run
+ 1657  sudo get-apt update
+ 1658  sudo apt-update
+ 1659  sudo apt-get update
+ 1660  sudo apt-get upgrade
+ 1661  sudo apt --fix-broken install
+ 1662  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1663  sudo dpkg -i discord-0.0.32.deb
+ 1664  code .
+ 1665  npm i
+ 1666  npm audit fix
+ 1667  npm install -g npm@10.2.4
+ 1668  npm audit fix
+ 1669  npm run dev
+ 1670  npm audit 
+ 1671  npm audit fix
+ 1672  git clone https://github.com/katlegomaphango/plug-play-pod.git
+ 1673  code .
+ 1674  npm i
+ 1675  npm audit fix
+ 1676  npm run dev
+ 1677  git checkout -b v2
+ 1678  git status
+ 1679  git checkout -d v2
+ 1680  git status
+ 1681  git checkout main
+ 1682  git branch -d v2
+ 1683  git status
+ 1684  git push
+ 1685  git clone https://github.com/katlegomaphango/plug-n-play-pod_v2.git
+ 1686  npm create vite@latest
+ 1687  cd temp
+ 1688  npm i
+ 1689  code .
+ 1690  code .
+ 1691  cd home
+ 1692  git status
+ 1693  ls
+ 1694  cat README.md
+ 1695  git checkout main
+ 1696  cat README.md
+ 1697  git branch
+ 1698  git log
+ 1699  git reset --hard 1f93e6f19afbe7d90bed953a5cd67d876be1a982
+ 1700  git log
+ 1701  ls
+ 1702  git branch
+ 1703  cat README.md
+ 1704  ls -a
+ 1705  mkdir ./git-basic-exercises
+ 1706  cd ./git-basic-exercises
+ 1707  ls
+ 1708  git init
+ 1709  touch README.md
+ 1710  git add --cache README.md
+ 1711  git add -cache README.md
+ 1712  git add README.md
+ 1713  ls
+ 1714  git status
+ 1715  git log
+ 1716  git commit -m "initial commit"
+ 1717  git log
+ 1718  nano README.md
+ 1719  cat README.md
+ 1720  git add README.md
+ 1721  git commit -m "second commit"
+ 1722  nano README.md
+ 1723  cat README.md
+ 1724  git add README.md
+ 1725  git commit -m "third commit"
+ 1726  git log
+ 1727  git checkout a96e9d963de5104bc32726dad32df9069a89304a
+ 1728  cat README.md
+ 1729  git checkout main
+ 1730  cat README.md
+ 1731  git checkout -b milkshake-flavours
+ 1732  git branch
+ 1733  nano milkshakes.md
+ 1734  git add milkshakes.md
+ 1735  git commit -m "added initial flavours"
+ 1736  git checkout main
+ 1737  git checkout -b history
+ 1738  git branch
+ 1739  history > history.txt
